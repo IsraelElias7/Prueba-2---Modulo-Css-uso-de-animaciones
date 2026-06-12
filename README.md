@@ -1,1 +1,5 @@
-# Prueba-2---Modulo-Css-uso-de-animaciones
+Prueba número 2 del módulo de CSS para desafío LATAM
+
+Uso de animaciones para la galería de imágenes
+
+
