@@ -2,6 +2,8 @@ Prueba número 2 del módulo de CSS para desafío LATAM
 
 Uso de animaciones para la galería de imágenes
 
+https://israelelias7.github.io/Prueba-2---Modulo-Css-uso-de-animaciones/
+
 <img width="486" height="1302" alt="Captura de Pantalla 2026-06-12 a la(s) 17 36 30" src="https://github.com/user-attachments/assets/44ce76d3-dfc0-486d-becb-f1910fa23302" />
 
 <img width="925" height="1299" alt="Captura de Pantalla 2026-06-12 a la(s) 17 36 17" src="https://github.com/user-attachments/assets/31ab1efe-6bdd-49d2-bbf8-617ff50fe6c1" />
